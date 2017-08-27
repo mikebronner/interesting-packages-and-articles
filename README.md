@@ -16,4 +16,7 @@ Packages we use for all or most projects:
 - 
 
 ## Good Idea
+- https://murze.be/2017/08/open-sourcing-guidelines
 
+## Good Resource
+- http://www.midnightcowboycoder.com
