@@ -21,3 +21,6 @@ Packages we use for all or most projects:
 ## Good Resource
 - http://www.midnightcowboycoder.com
 - https://streamacon.com/video/laracon-us-2017
+
+## Services
+- https://www.flowdock.com
