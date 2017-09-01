@@ -13,7 +13,7 @@ Packages we use for all or most projects:
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
 - https://github.com/antonioribeiro/firewall
-- 
+- https://github.com/botman/studio
 
 ## Good Idea
 - https://murze.be/2017/08/open-sourcing-guidelines
