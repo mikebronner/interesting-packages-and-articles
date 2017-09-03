@@ -9,18 +9,22 @@ Packages we use for all or most projects:
 ## High Potential
 - https://sebastiandedeyne.com/posts/2017/theme-based-views-in-laravel-using-vendor-namespaces
 - https://github.com/bmitch/churn-php
+- https://github.com/tightenco/ziggy
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
 - https://github.com/antonioribeiro/firewall
 - https://github.com/botman/studio
 
-## Good Idea
-- https://murze.be/2017/08/open-sourcing-guidelines
-
-## Good Resource
+## Non-Package Resources
+### Articles
 - http://www.midnightcowboycoder.com
 - https://streamacon.com/video/laracon-us-2017
+- https://murze.be/2017/08/open-sourcing-guidelines
+- https://medium.com/@dakotaleemartinez/keeping-your-css-dry-with-tachyons-bb1c0dc66dce
+- https://laravel-news.com/make-code-sustainable/
 
-## Services
+### Frameworks
+
+### Services
 - https://www.flowdock.com
