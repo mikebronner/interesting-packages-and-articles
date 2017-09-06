@@ -23,7 +23,7 @@ Packages we use for all or most projects:
 - https://murze.be/2017/08/open-sourcing-guidelines
 - https://medium.com/@dakotaleemartinez/keeping-your-css-dry-with-tachyons-bb1c0dc66dce
 - https://laravel-news.com/make-code-sustainable/
-- (Clean Code Principles for PHP)[https://github.com/jupeter/clean-code-php]
+- [Clean Code Principles for PHP](https://github.com/jupeter/clean-code-php)
 
 ### CSS Frameworks
 - http://tachyons.io
