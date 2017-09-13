@@ -16,6 +16,7 @@ Packages we use for all or most projects:
 - https://github.com/bmitch/churn-php
 - [API Versioning](https://github.com/lukepolo/request-migrations)
 - [Laravel-based Ticket System](https://github.com/BadChoice/handesk)
+- [Hashed Model IDs in URLs](https://github.com/balping/laravel-hashslug)
 
 ## Non-Package Resources
 ### Articles
@@ -29,6 +30,7 @@ Packages we use for all or most projects:
 - [Setting up XDebug w/ Homestead](https://barryvanveen.nl/blog/42-code-coverage-when-running-phpunit-on-laravel-homestead)
 - [Model Inheritance](https://tighten.co/blog/extending-models-in-eloquent)
 - [Easy Vuex Setup](http://mission-4.com/blog/2017/setting-up-vuex-in-a-laravel-project)
+- [Hashed Primary Keys in URLs](https://jenssegers.com/64/easy-id-obfuscation-with-laravel-5)
 
 ### CSS Frameworks
 - http://tachyons.io
