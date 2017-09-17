@@ -17,6 +17,7 @@ Packages we use for all or most projects:
 - [API Versioning](https://github.com/lukepolo/request-migrations)
 - [Laravel-based Ticket System](https://github.com/BadChoice/handesk)
 - [Hashed Model IDs in URLs](https://github.com/balping/laravel-hashslug)
+- [Community Validation Rules](https://laravel-validation-rules.github.io)
 
 ## Non-Package Resources
 ### Articles
