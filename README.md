@@ -32,6 +32,7 @@ Packages we use for all or most projects:
 - [Model Inheritance](https://tighten.co/blog/extending-models-in-eloquent)
 - [Easy Vuex Setup](http://mission-4.com/blog/2017/setting-up-vuex-in-a-laravel-project)
 - [Hashed Primary Keys in URLs](https://jenssegers.com/64/easy-id-obfuscation-with-laravel-5)
+- [Typesetting](http://www.steveschoger.com/2017/07/19/6-tips-that-will-improve-your-typography-on-your-ui/?utm_content=buffera68a7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ### CSS Frameworks
 - http://tachyons.io
