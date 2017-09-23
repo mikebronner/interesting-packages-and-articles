@@ -36,6 +36,9 @@ Packages we use for all or most projects:
 - [Dynamic Templates](https://laravel-news.com/viewfirst/)
 - [DigitalOcean Spaces in Laravel](https://joelennon.com/using-digitalocean-spaces-in-laravel)
 
+### Videos
+- [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
+
 ### CSS Frameworks
 - http://tachyons.io
 - https://getbootstrap.com
