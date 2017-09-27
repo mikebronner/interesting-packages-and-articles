@@ -36,6 +36,7 @@ Packages we use for all or most projects:
 - [Typesetting](http://www.steveschoger.com/2017/07/19/6-tips-that-will-improve-your-typography-on-your-ui/?utm_content=buffera68a7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Dynamic Templates](https://laravel-news.com/viewfirst/)
 - [DigitalOcean Spaces in Laravel](https://joelennon.com/using-digitalocean-spaces-in-laravel)
+- [The 5 Whys](https://en.wikipedia.org/wiki/5_Whys)
 
 ### Videos
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
