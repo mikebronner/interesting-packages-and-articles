@@ -40,6 +40,7 @@ Packages we use for all or most projects:
 
 ### Videos
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
+- [Vue.js Code-Splitting for Lazing Loading Vue Components](https://youtu.be/wZN_FtZRYC8?t=1907)
 
 ### CSS Frameworks
 - http://tachyons.io
