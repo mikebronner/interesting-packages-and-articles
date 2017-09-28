@@ -37,6 +37,7 @@ Packages we use for all or most projects:
 - [Dynamic Templates](https://laravel-news.com/viewfirst/)
 - [DigitalOcean Spaces in Laravel](https://joelennon.com/using-digitalocean-spaces-in-laravel)
 - [The 5 Whys](https://en.wikipedia.org/wiki/5_Whys)
+- [Use Responsable Interface for Custom Response Objects](https://laravel-news.com/laravel-5-5-responsable)
 
 ### Videos
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
