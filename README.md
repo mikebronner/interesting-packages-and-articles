@@ -51,4 +51,5 @@ Packages we use for all or most projects:
 ### Services
 - https://www.flowdock.com
 - https://keybase.io
+- https://buddy.works
 
