@@ -55,3 +55,4 @@ Packages we use for all or most projects:
 - https://keybase.io
 - https://buddy.works
 - https://www.vivifyscrum.com
+- https://www.mautic.org/
