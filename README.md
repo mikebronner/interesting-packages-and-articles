@@ -39,6 +39,7 @@ Packages we use for all or most projects:
 - [The 5 Whys](https://en.wikipedia.org/wiki/5_Whys)
 - [Use Responsable Interface for Custom Response Objects](https://laravel-news.com/laravel-5-5-responsable)
 - [Use .gitattributes In Packages!](https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/)
+- https://medium.com/@gsto/how-i-used-writing-to-double-my-freelancing-rate-as-a-programmer-7b321bedecdc
 
 ### Videos
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
