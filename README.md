@@ -39,7 +39,13 @@ Packages we use for all or most projects:
 - [The 5 Whys](https://en.wikipedia.org/wiki/5_Whys)
 - [Use Responsable Interface for Custom Response Objects](https://laravel-news.com/laravel-5-5-responsable)
 - [Use .gitattributes In Packages!](https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/)
-- https://medium.com/@gsto/how-i-used-writing-to-double-my-freelancing-rate-as-a-programmer-7b321bedecdc
+- [Using writing to double freelancing rate](https://medium.com/@gsto/how-i-used-writing-to-double-my-freelancing-rate-as-a-programmer-7b321bedecdc)
+- [Skills, Projects, Rates, and Organization for freelancers](http://t3n.de/news/freelancer-programmierer-616149/)
+- [Calculate a Good Hourly Rate](https://lambertschuster.de/existenzgruender/stundensatz-kalkulation-fuer-freiberufler-und-selbstaendige/)
+- [How Much You Really Keep](https://lambertschuster.de/existenzgruender/stundensatz-kalkulation-fuer-selbstaendige-und-freiberufler/)
+- [Justify Your Rates by Arguing Value](https://lambertschuster.de/vertrieb/preisargumentation-und-pricing-kostenverteidigung-oder-nutzenargumentation/)
+- [Experience with Ethics in Programming](https://www.heise.de/tr/artikel/Der-Code-fuer-den-ich-mich-immer-noch-schaeme-3746246.html)
+- [Common Fallacies Freelancers Face](https://blogsheet.info/diese-luegen-verhindern-ein-produktives-arbeiten-als-selbstaendiger-11188)
 
 ### Videos
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
