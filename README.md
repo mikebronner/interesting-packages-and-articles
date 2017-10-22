@@ -53,6 +53,7 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - [Defining Your Market](https://pantheon.io/blog/digital-agency-growth-leslie-bradshaw-defining-your-market)
 - [Setting Up A Digital Agency](https://business.tutsplus.com/tutorials/how-to-set-up-your-own-web-design-agency-tips-from-the-pros--cms-23960)
 - [Finding A Niche](https://www.duda.co/blog/web-agency-niche/)
+- [10 Principles](https://www.youtube.com/watch?v=nJxQ2kUGJkA)
 
 ### Videos
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
@@ -63,6 +64,7 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - http://tachyons.io
 - https://getbootstrap.com
 - http://foundation.zurb.com
+- https://tailwindcss.com
 
 ### Services
 - https://www.flowdock.com
