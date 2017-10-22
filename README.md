@@ -36,7 +36,6 @@ Packages we use for all or most projects:
 - [Clean Code Principles for PHP](https://github.com/jupeter/clean-code-php)
 - [Setting up XDebug w/ Homestead](https://barryvanveen.nl/blog/42-code-coverage-when-running-phpunit-on-laravel-homestead)
 - [Model Inheritance](https://tighten.co/blog/extending-models-in-eloquent)
-- [Easy Vuex Setup](http://mission-4.com/blog/2017/setting-up-vuex-in-a-laravel-project)
 - [Hashed Primary Keys in URLs](https://jenssegers.com/64/easy-id-obfuscation-with-laravel-5)
 - [Typesetting](http://www.steveschoger.com/2017/07/19/6-tips-that-will-improve-your-typography-on-your-ui/?utm_content=buffera68a7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Dynamic Templates](https://laravel-news.com/viewfirst/)
@@ -54,6 +53,7 @@ Packages we use for all or most projects:
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 - [Unit Testing](https://vue-test-utils.vuejs.org/en/guides/getting-started.html)
 - [Vue Models](https://github.com/aarondfrancis/vue-model)
+- [Easy Vuex Setup](http://mission-4.com/blog/2017/setting-up-vuex-in-a-laravel-project)
 
 #### Digital Agency
 - [Using writing to double freelancing rate](https://medium.com/@gsto/how-i-used-writing-to-double-my-freelancing-rate-as-a-programmer-7b321bedecdc)
@@ -85,7 +85,21 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - https://www.flowdock.com
 - https://keybase.io
 - https://buddy.works
-- https://www.vivifyscrum.com
 - https://www.mautic.org/
-- https://www.hotjar.com/
+
+#### Project Management
+- https://waffle.io
+- https://www.vivifyscrum.com
+- http://thrivesolo.com
+- https://www.zenhub.com
+- https://www.blossom.co
+
+#### Logging
+- https://logrocket.com
+- https://logmatic.io
+- https://papertrailapp.com
+- https://timber.io
+- https://www.fullstory.com/
+- https://www.getjaco.com
+- https://www.hotjar.com *
 
