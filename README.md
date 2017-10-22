@@ -39,6 +39,8 @@ Packages we use for all or most projects:
 - [The 5 Whys](https://en.wikipedia.org/wiki/5_Whys)
 - [Use Responsable Interface for Custom Response Objects](https://laravel-news.com/laravel-5-5-responsable)
 - [Use .gitattributes In Packages!](https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/)
+
+#### Digital Agency
 - [Using writing to double freelancing rate](https://medium.com/@gsto/how-i-used-writing-to-double-my-freelancing-rate-as-a-programmer-7b321bedecdc)
 - [Skills, Projects, Rates, and Organization for freelancers](http://t3n.de/news/freelancer-programmierer-616149/)
 - [Calculate a Good Hourly Rate](https://lambertschuster.de/existenzgruender/stundensatz-kalkulation-fuer-freiberufler-und-selbstaendige/)
@@ -46,6 +48,11 @@ Packages we use for all or most projects:
 - [Justify Your Rates by Arguing Value](https://lambertschuster.de/vertrieb/preisargumentation-und-pricing-kostenverteidigung-oder-nutzenargumentation/)
 - [Experience with Ethics in Programming](https://www.heise.de/tr/artikel/Der-Code-fuer-den-ich-mich-immer-noch-schaeme-3746246.html)
 - [Common Fallacies Freelancers Face](https://blogsheet.info/diese-luegen-verhindern-ein-produktives-arbeiten-als-selbstaendiger-11188)
+- [Move from Developer to Agency](https://pantheon.io/blog/you-inc-going-developer-digital-agency)
+_ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
+- [Defining Your Market](https://pantheon.io/blog/digital-agency-growth-leslie-bradshaw-defining-your-market)
+- [Setting Up A Digital Agency](https://business.tutsplus.com/tutorials/how-to-set-up-your-own-web-design-agency-tips-from-the-pros--cms-23960)
+- [Finding A Niche](https://www.duda.co/blog/web-agency-niche/)
 
 ### Videos
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
