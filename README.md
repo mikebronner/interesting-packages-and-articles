@@ -19,6 +19,11 @@ Packages we use for all or most projects:
 - [Laravel-based Ticket System](https://github.com/BadChoice/handesk)
 - [Hashed Model IDs in URLs](https://github.com/balping/laravel-hashslug)
 - [Community Validation Rules](https://laravel-validation-rules.github.io)
+- https://github.com/renatomarinho/laravel-page-speed
+- [Laravel 5 Package Quick-Start](https://github.com/ConsoleTVs/Bootpack)
+- [Machine Translation Service DeepLy](https://github.com/chriskonnertz/DeepLy)
+- [Laravel Blade Directives](https://github.com/appstract/laravel-blade-directives)
+
 
 ## Non-Package Resources
 ### Articles
@@ -39,6 +44,16 @@ Packages we use for all or most projects:
 - [The 5 Whys](https://en.wikipedia.org/wiki/5_Whys)
 - [Use Responsable Interface for Custom Response Objects](https://laravel-news.com/laravel-5-5-responsable)
 - [Use .gitattributes In Packages!](https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/)
+- [User Registration Verification Process](https://phpbits.in/email-verification-with-laravel-5-5/)
+- [Middleware Testing](https://laravel-news.com/testing-laravel-middleware)
+- [Optimize Eagerloading](https://laravel-news.com/eloquent-eager-loading)
+
+
+#### VueJS
+- [Creating Filters](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples)
+- [Style Guide](https://vuejs.org/v2/style-guide/)
+- [Unit Testing](https://vue-test-utils.vuejs.org/en/guides/getting-started.html)
+- [Vue Models](https://github.com/aarondfrancis/vue-model)
 
 #### Digital Agency
 - [Using writing to double freelancing rate](https://medium.com/@gsto/how-i-used-writing-to-double-my-freelancing-rate-as-a-programmer-7b321bedecdc)
@@ -72,3 +87,5 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - https://buddy.works
 - https://www.vivifyscrum.com
 - https://www.mautic.org/
+- https://www.hotjar.com/
+
