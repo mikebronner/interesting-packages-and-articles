@@ -69,6 +69,7 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - [Setting Up A Digital Agency](https://business.tutsplus.com/tutorials/how-to-set-up-your-own-web-design-agency-tips-from-the-pros--cms-23960)
 - [Finding A Niche](https://www.duda.co/blog/web-agency-niche/)
 - [10 Principles](https://www.youtube.com/watch?v=nJxQ2kUGJkA)
+- [How to find your "Why"](https://www.youtube.com/watch?v=UUDJoHeJbzw)
 
 ### Videos
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
