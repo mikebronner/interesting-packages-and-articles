@@ -105,3 +105,12 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - https://www.getjaco.com
 - https://www.hotjar.com *
 
+#### Design & Branding
+- https://www.lingoapp.com
+
+### Apps
+#### Development
+- https://kapeli.com/dash
+
+#### Atom Packages
+
