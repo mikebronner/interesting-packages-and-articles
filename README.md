@@ -113,4 +113,4 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - https://kapeli.com/dash
 
 #### Atom Packages
-
+- Use sync-settings to restore from: https://gist.github.com/mikebronner/172a6d1e6ea0df3dce316d6dff6faf23
