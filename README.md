@@ -47,7 +47,7 @@ Packages we use for all or most projects:
 - [User Registration Verification Process](https://phpbits.in/email-verification-with-laravel-5-5/)
 - [Middleware Testing](https://laravel-news.com/testing-laravel-middleware)
 - [Optimize Eagerloading](https://laravel-news.com/eloquent-eager-loading)
-
+- [Remove Unused CSS](https://medium.com/@AndrewDelPrete/using-purifycss-to-remove-unused-tailwind-css-classes-173b3ee8ee01)
 
 #### VueJS
 - [Creating Filters](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples)
