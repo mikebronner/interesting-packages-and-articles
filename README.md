@@ -48,6 +48,7 @@ Packages we use for all or most projects:
 - [Middleware Testing](https://laravel-news.com/testing-laravel-middleware)
 - [Optimize Eagerloading](https://laravel-news.com/eloquent-eager-loading)
 - [Remove Unused CSS](https://medium.com/@AndrewDelPrete/using-purifycss-to-remove-unused-tailwind-css-classes-173b3ee8ee01)
+- [Using Private Repos in Composer](https://keevitaja.com/posts/using-github-private-repositories-as-composer-dependencies)
 
 #### VueJS
 - [Creating Filters](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples)
