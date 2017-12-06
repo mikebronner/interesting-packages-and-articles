@@ -10,6 +10,7 @@ Packages we use for all or most projects:
 - https://github.com/asika32764/vue2-animate
 - [Instrumenting Code](https://github.com/etsy/statsd)
 - [Nicer Console Error Handling](https://github.com/nunomaduro/collision)
+- [Web Frontend Editor](https://quilljs.com)
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
