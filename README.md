@@ -78,6 +78,7 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - [LaraCon EU 2017: Design Patterns](https://www.youtube.com/watch?v=mNl4cMLlplM)
 - [Vue.js Code-Splitting for Lazing Loading Vue Components](https://youtu.be/wZN_FtZRYC8?t=1907)
 - [TailwindCSS](https://www.youtube.com/watch?v=ZrRRMBaz5Z0)
+- [Async / Await](https://gumroad.com/l/ZRoGr)
 
 ### CSS Frameworks
 - http://tachyons.io
