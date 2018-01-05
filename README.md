@@ -4,6 +4,8 @@ List of packages and articles we are interested in using that fulfill specific n
 ## In Use
 Packages we use for all or most projects:
 - https://github.com/GeneaLabs/laravel-casts
+- https://github.com/GeneaLabs/laravel-model-caching
+- https://github.com/symfony/thanks
 
 ## High Potential
 - https://github.com/tightenco/ziggy
