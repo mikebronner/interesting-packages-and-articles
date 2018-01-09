@@ -13,6 +13,7 @@ Packages we use for all or most projects:
 - [Instrumenting Code](https://github.com/etsy/statsd)
 - [Nicer Console Error Handling](https://github.com/nunomaduro/collision)
 - [Web Frontend Editor](https://quilljs.com)
+- https://github.com/php-pm/php-pm
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
