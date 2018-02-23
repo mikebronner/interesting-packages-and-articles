@@ -54,6 +54,7 @@ Packages we use for all or most projects:
 - [Optimize Eagerloading](https://laravel-news.com/eloquent-eager-loading)
 - [Remove Unused CSS](https://medium.com/@AndrewDelPrete/using-purifycss-to-remove-unused-tailwind-css-classes-173b3ee8ee01)
 - [Using Private Repos in Composer](https://keevitaja.com/posts/using-github-private-repositories-as-composer-dependencies)
+- [Data-Driven Testing](https://laravel-news.com/data-driven-testing-phpunit/)
 
 #### VueJS
 - [Creating Filters](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples)
@@ -83,6 +84,7 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - [Vue.js Code-Splitting for Lazing Loading Vue Components](https://youtu.be/wZN_FtZRYC8?t=1907)
 - [TailwindCSS](https://www.youtube.com/watch?v=ZrRRMBaz5Z0)
 - [Async / Await](https://gumroad.com/l/ZRoGr)
+- [TailwindCss Video Course](https://egghead.io/courses/build-user-interfaces-by-composing-css-utility-classes-with-tailwind)
 
 ### CSS Frameworks
 - http://tachyons.io
