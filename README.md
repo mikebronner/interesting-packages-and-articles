@@ -14,6 +14,7 @@ Packages we use for all or most projects:
 - [Nicer Console Error Handling](https://github.com/nunomaduro/collision)
 - [Web Frontend Editor](https://quilljs.com)
 - https://github.com/php-pm/php-pm
+- https://github.com/valorin/pwned-validator
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
