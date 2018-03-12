@@ -15,6 +15,9 @@ Packages we use for all or most projects:
 - [Web Frontend Editor](https://quilljs.com)
 - https://github.com/php-pm/php-pm
 - https://github.com/valorin/pwned-validator
+- https://github.com/driade/laravel-book
+- https://github.com/nickurt/laravel-pwned-passwords
+- https://github.com/OwenMelbz/laravel-robots-txt
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
@@ -30,6 +33,9 @@ Packages we use for all or most projects:
 - [Machine Translation Service DeepLy](https://github.com/chriskonnertz/DeepLy)
 - [Laravel Blade Directives](https://github.com/appstract/laravel-blade-directives)
 - [Laravel Under Construction with Access Code] (https://github.com/larsjanssen6/underconstruction)
+- https://github.com/OwenMelbz/https-enforcement
+- [Rapid Application Development Platform](https://github.com/orchidsoftware/platform)
+- https://github.com/OwenMelbz/vue-impersonate
 
 
 ## Non-Package Resources
@@ -56,6 +62,8 @@ Packages we use for all or most projects:
 - [Remove Unused CSS](https://medium.com/@AndrewDelPrete/using-purifycss-to-remove-unused-tailwind-css-classes-173b3ee8ee01)
 - [Using Private Repos in Composer](https://keevitaja.com/posts/using-github-private-repositories-as-composer-dependencies)
 - [Data-Driven Testing](https://laravel-news.com/data-driven-testing-phpunit/)
+- [Responsive Images Done Right](http://laravelnews.cmail19.com/t/d-l-oiyldjk-ulldlhidt-yd/)
+- 
 
 #### VueJS
 - [Creating Filters](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples)
