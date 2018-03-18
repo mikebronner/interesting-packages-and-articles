@@ -18,6 +18,8 @@ Packages we use for all or most projects:
 - https://github.com/driade/laravel-book
 - https://github.com/nickurt/laravel-pwned-passwords
 - https://github.com/OwenMelbz/laravel-robots-txt
+- https://github.com/OwenMelbz/domain-enforcement
+- 
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
@@ -63,6 +65,7 @@ Packages we use for all or most projects:
 - [Using Private Repos in Composer](https://keevitaja.com/posts/using-github-private-repositories-as-composer-dependencies)
 - [Data-Driven Testing](https://laravel-news.com/data-driven-testing-phpunit/)
 - [Responsive Images Done Right](http://laravelnews.cmail19.com/t/d-l-oiyldjk-ulldlhidt-yd/)
+- [Content Security Policies](https://christoph-rumpel.com/2018/03/content-security-policy-hash-algorithm-and-turbolinks)
 - 
 
 #### VueJS
@@ -94,6 +97,8 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - [TailwindCSS](https://www.youtube.com/watch?v=ZrRRMBaz5Z0)
 - [Async / Await](https://gumroad.com/l/ZRoGr)
 - [TailwindCss Video Course](https://egghead.io/courses/build-user-interfaces-by-composing-css-utility-classes-with-tailwind)
+- https://www.linkedin.com/learning/building-restful-apis-in-laravel
+- 
 
 ### CSS Frameworks
 - http://tachyons.io
