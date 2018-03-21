@@ -66,7 +66,7 @@ Packages we use for all or most projects:
 - [Data-Driven Testing](https://laravel-news.com/data-driven-testing-phpunit/)
 - [Responsive Images Done Right](http://laravelnews.cmail19.com/t/d-l-oiyldjk-ulldlhidt-yd/)
 - [Content Security Policies](https://christoph-rumpel.com/2018/03/content-security-policy-hash-algorithm-and-turbolinks)
-- 
+- [Signed Routes](https://laravel-news.com/signed-routes/)
 
 #### VueJS
 - [Creating Filters](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples)
