@@ -74,6 +74,7 @@ Packages we use for all or most projects:
 - [Unit Testing](https://vue-test-utils.vuejs.org/en/guides/getting-started.html)
 - [Vue Models](https://github.com/aarondfrancis/vue-model)
 - [Easy Vuex Setup](http://mission-4.com/blog/2017/setting-up-vuex-in-a-laravel-project)
+- [Vue Cookbook](https://vuejs.org/v2/cookbook)
 
 #### Digital Agency
 - [Using writing to double freelancing rate](https://medium.com/@gsto/how-i-used-writing-to-double-my-freelancing-rate-as-a-programmer-7b321bedecdc)
