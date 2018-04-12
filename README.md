@@ -19,7 +19,7 @@ Packages we use for all or most projects:
 - https://github.com/nickurt/laravel-pwned-passwords
 - https://github.com/OwenMelbz/laravel-robots-txt
 - https://github.com/OwenMelbz/domain-enforcement
-- 
+- https://github.com/JosephSilber/page-cache
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
