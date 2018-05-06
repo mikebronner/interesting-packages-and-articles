@@ -20,6 +20,8 @@ Packages we use for all or most projects:
 - https://github.com/OwenMelbz/laravel-robots-txt
 - https://github.com/OwenMelbz/domain-enforcement
 - https://github.com/JosephSilber/page-cache
+- https://github.com/chelout/laravel-relationship-events
+- https://github.com/Askedio/laravel-soft-cascade
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
@@ -67,6 +69,16 @@ Packages we use for all or most projects:
 - [Responsive Images Done Right](http://laravelnews.cmail19.com/t/d-l-oiyldjk-ulldlhidt-yd/)
 - [Content Security Policies](https://christoph-rumpel.com/2018/03/content-security-policy-hash-algorithm-and-turbolinks)
 - [Signed Routes](https://laravel-news.com/signed-routes/)
+- [Swoole PHP Extension](https://laravel-news.com/laravel-swoole)
+
+#### Design Process
+- https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes
+
+#### Patterns
+- [Class-Based Laravel Macros](http://rachidlaasri.com/php/laravel/macro/2018/04/28/class-based-macros.html)
+
+#### Testing
+- [Events & Listeners](https://blog.jgrossi.com/2018/solitary-or-sociable-testing-events-and-listeners-using-laravel)
 
 #### VueJS
 - [Creating Filters](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples)
@@ -140,3 +152,7 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 
 #### Atom Packages
 - Use sync-settings to restore from: https://gist.github.com/mikebronner/172a6d1e6ea0df3dce316d6dff6faf23
+
+### Business Management
+- https://akaunting.com/features
+- https://oroinc.com
