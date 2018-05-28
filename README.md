@@ -22,6 +22,7 @@ Packages we use for all or most projects:
 - https://github.com/JosephSilber/page-cache
 - https://github.com/chelout/laravel-relationship-events
 - https://github.com/Askedio/laravel-soft-cascade
+- https://github.com/Roave/BackwardCompatibilityCheck
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
