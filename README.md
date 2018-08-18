@@ -148,6 +148,11 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 - https://www.lingoapp.com
 
 ### Apps
+#### Design Workflow
+- https://dbdesigner.net
+- https://figma.com
+- https://overflow.io
+
 #### Development
 - https://kapeli.com/dash
 
