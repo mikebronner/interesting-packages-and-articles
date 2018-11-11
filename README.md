@@ -23,6 +23,7 @@ Packages we use for all or most projects:
 - https://github.com/chelout/laravel-relationship-events
 - https://github.com/Askedio/laravel-soft-cascade
 - https://github.com/Roave/BackwardCompatibilityCheck
+- https://github.com/davestewart/vuex-pathify
 
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
