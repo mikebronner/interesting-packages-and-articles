@@ -8,6 +8,7 @@ Packages we use for all or most projects:
 - https://github.com/symfony/thanks
 
 ## High Potential
+- https://laravel-tenancy.com/
 - https://github.com/tightenco/ziggy
 - https://github.com/asika32764/vue2-animate
 - [Instrumenting Code](https://github.com/etsy/statsd)
