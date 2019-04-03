@@ -26,6 +26,9 @@ Packages we use for all or most projects:
 - https://github.com/Roave/BackwardCompatibilityCheck
 - https://github.com/davestewart/vuex-pathify
 
+### Nova
+- https://github.com/KABBOUCHI/nova-logs-tool
+
 ## Potential
 - https://github.com/imanghafoori1/laravel-widgetize
 - https://github.com/antonioribeiro/firewall
