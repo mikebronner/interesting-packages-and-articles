@@ -6,9 +6,10 @@ Packages we use for all or most projects:
 - https://github.com/GeneaLabs/laravel-casts
 - https://github.com/GeneaLabs/laravel-model-caching
 - https://github.com/symfony/thanks
+- https://laravel-tenancy.com/
 
 ## High Potential
-- https://laravel-tenancy.com/
+- https://livewire-framework.com
 - https://github.com/tightenco/ziggy
 - https://github.com/asika32764/vue2-animate
 - [Instrumenting Code](https://github.com/etsy/statsd)
@@ -21,7 +22,6 @@ Packages we use for all or most projects:
 - https://github.com/OwenMelbz/laravel-robots-txt
 - https://github.com/OwenMelbz/domain-enforcement
 - https://github.com/JosephSilber/page-cache
-- https://github.com/chelout/laravel-relationship-events
 - https://github.com/Askedio/laravel-soft-cascade
 - https://github.com/Roave/BackwardCompatibilityCheck
 - https://github.com/davestewart/vuex-pathify
