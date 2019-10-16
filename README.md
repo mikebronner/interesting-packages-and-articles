@@ -8,7 +8,7 @@ Packages we use for all or most projects:
 - https://github.com/symfony/thanks
 - https://laravel-tenancy.com/
 - https://github.com/php-pm/php-pm
-- [Laravel Under Construction with Access Code] (https://github.com/larsjanssen6/underconstruction)
+- https://github.com/larsjanssen6/underconstruction
 
 ## High Potential
 - https://github.com/matthewbdaly/artisan-standalone
