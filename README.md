@@ -7,15 +7,16 @@ Packages we use for all or most projects:
 - https://github.com/GeneaLabs/laravel-model-caching
 - https://github.com/symfony/thanks
 - https://laravel-tenancy.com/
+- https://github.com/php-pm/php-pm
+- [Laravel Under Construction with Access Code] (https://github.com/larsjanssen6/underconstruction)
 
 ## High Potential
+- https://github.com/matthewbdaly/artisan-standalone
 - https://livewire-framework.com
 - https://github.com/tightenco/ziggy
 - https://github.com/asika32764/vue2-animate
 - [Instrumenting Code](https://github.com/etsy/statsd)
-- [Nicer Console Error Handling](https://github.com/nunomaduro/collision)
 - [Web Frontend Editor](https://quilljs.com)
-- https://github.com/php-pm/php-pm
 - https://github.com/valorin/pwned-validator
 - https://github.com/driade/laravel-book
 - https://github.com/nickurt/laravel-pwned-passwords
@@ -44,7 +45,6 @@ Packages we use for all or most projects:
 - [Laravel 5 Package Quick-Start](https://github.com/ConsoleTVs/Bootpack)
 - [Machine Translation Service DeepLy](https://github.com/chriskonnertz/DeepLy)
 - [Laravel Blade Directives](https://github.com/appstract/laravel-blade-directives)
-- [Laravel Under Construction with Access Code] (https://github.com/larsjanssen6/underconstruction)
 - https://github.com/OwenMelbz/https-enforcement
 - [Rapid Application Development Platform](https://github.com/orchidsoftware/platform)
 - https://github.com/OwenMelbz/vue-impersonate
