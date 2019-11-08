@@ -155,6 +155,7 @@ _ [Digital Agency Myths](https://pantheon.io/7-myths-guide-to-agency-growth)
 
 #### Design & Branding
 - https://www.lingoapp.com
+- https://www.figma.com/blog/creating-atomic-components-in-figma/
 
 ### Apps
 #### Design Workflow
