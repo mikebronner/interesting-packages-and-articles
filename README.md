@@ -52,6 +52,12 @@ Packages we use for all or most projects:
 
 
 ## Non-Package Resources
+### Continuing Education Courses
+#### Signed Up
+- https://serverlesslaravelcourse.com/home
+
+#### Considering
+
 ### Articles
 - https://sebastiandedeyne.com/posts/2017/theme-based-views-in-laravel-using-vendor-namespaces
 - http://www.midnightcowboycoder.com
