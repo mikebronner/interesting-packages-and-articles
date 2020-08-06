@@ -51,6 +51,7 @@ Packages we use for all or most projects:
 - https://github.com/OwenMelbz/https-enforcement
 - [Rapid Application Development Platform](https://github.com/orchidsoftware/platform)
 - https://github.com/OwenMelbz/vue-impersonate
+- https://github.com/Bottelet/DaybydayCRM
 
 
 ## Non-Package Resources
