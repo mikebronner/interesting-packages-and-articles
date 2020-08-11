@@ -58,6 +58,7 @@ Packages we use for all or most projects:
 ### Continuing Education Courses
 #### Signed Up
 - https://serverlesslaravelcourse.com/home
+- https://makevscodeawesome.com/friends
 
 #### Considering
 
