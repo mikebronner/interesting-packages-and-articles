@@ -59,6 +59,7 @@ Packages we use for all or most projects:
 #### Signed Up
 - https://serverlesslaravelcourse.com/home
 - https://makevscodeawesome.com/friends
+- https://eloquent-course.reinink.ca
 
 #### Considering
 
