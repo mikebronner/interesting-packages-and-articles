@@ -60,6 +60,7 @@ Packages we use for all or most projects:
 - https://serverlesslaravelcourse.com/home
 - https://makevscodeawesome.com/friends
 - https://eloquent-course.reinink.ca
+- https://laravel-beyond-crud.com
 
 #### Considering
 
