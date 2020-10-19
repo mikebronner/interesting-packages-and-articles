@@ -7,12 +7,10 @@ Packages we use for all or most projects:
 - https://github.com/GeneaLabs/laravel-model-caching
 - https://github.com/symfony/thanks
 - https://laravel-tenancy.com/
-- https://github.com/php-pm/php-pm
 - https://github.com/larsjanssen6/underconstruction
 
 ## High Potential
 - https://github.com/Hi-Folks/lara-lens
-- https://tenancyforlaravel.com (to possibly replace hyn/multi-tenant?)
 - https://github.com/igaster/laravel-theme
 - https://github.com/matthewbdaly/artisan-standalone
 - https://livewire-framework.com
