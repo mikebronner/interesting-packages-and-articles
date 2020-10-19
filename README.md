@@ -8,6 +8,8 @@ Packages we use for all or most projects:
 - https://github.com/symfony/thanks
 - https://laravel-tenancy.com/
 - https://github.com/larsjanssen6/underconstruction
+- https://github.com/livewire/livewire
+- https://github.com/alpinejs/alpine
 
 ## High Potential
 - https://github.com/Hi-Folks/lara-lens
