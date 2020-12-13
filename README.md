@@ -33,6 +33,7 @@ Packages we use for all or most projects:
 - https://github.com/ecrmnn/collect.js
 - https://github.com/StydeNet/enlighten
 - https://github.com/ksassnowski/venture
+- https://tailflow.github.io/laravel-orion-docs/
 
 ### Nova
 - https://github.com/KABBOUCHI/nova-logs-tool
